@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Tuquito 4 elementary
+Type=X-GNOME-Metatheme
+Comment=Tema oficial de Tuquito 4
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Tuquito 4 elementary
+MetacityTheme=Tuquito 4 elementary
+IconTheme=tuquito-elementary
+GtkColorScheme=fg_color:#4d4d4d4d4d4d,bg_color:#e9ebe9ebe9eb,text_color:#4d4d4d4d4d4d,base_color:#f7f7f9f9fafa,selected_fg_color:#ffffffffffff,selected_bg_color:#80279d4ec221,tooltip_fg_color:#2b5b2b5b2b5b,tooltip_bg_color:#ffffdf0783e4
+CursorTheme=ComixCursors-White-Small-Slim
+CursorSize=32
+BackgroundImage=/usr/share/backgrounds/TuquitoLuces4.png

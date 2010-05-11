@@ -1,0 +1,12 @@
+tuquito-gnome-themes (0.1-2) lucid; urgency=low
+
+  * Theme elementary  modificado para Tuquito
+  * Agregado breadcrumb en nautilus
+
+ -- Mario Colque <mario@tuquito.org.ar>  Tue, 11 May 2010 17:14:58 -0300
+
+tuquito-gnome-themes (0.1-1) lucid; urgency=low
+
+  * Version inicial
+
+ -- Mario Colque <mario@tuquito.org.ar>  Mon, 10 May 2010 15:19:38 -0300

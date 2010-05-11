@@ -1,0 +1,13 @@
+Source: tuquito-gnome-themes
+Section: gnome
+Priority: extra
+Maintainer: Mario Colque <mario@tuquito.org.ar>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.1
+
+Package: tuquito-gnome-themes
+Architecture: all
+Depends: gtk2-engines-aurora
+Description: Temas de gnome para Tuquito
+ Coleccion de Temas de gnome desarrollados por la comunidad para Tuquito
+ * Tuquito Team! - 2010
