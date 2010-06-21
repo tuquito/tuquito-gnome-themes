@@ -1,0 +1,8 @@
+[X-GNOME-Metatheme]
+Name=Tuquito Mono Light
+Encoding=UTF-8
+GtkTheme=tuquito-mono-light
+MetacityTheme=tuquito-mono-light
+IconTheme=tuquito-mono-light
+CursorTheme=DMZ-White
+BackgroundImage=/usr/share/backgrounds/tuquito/Tuquito4.jpg

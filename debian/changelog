@@ -1,3 +1,10 @@
+tuquito-gnome-themes (0.1-3) lucid; urgency=low
+
+  * Nuevos temas, Tuquito Light y Tuquito Dark
+  * Correción en dependencias
+
+ -- Mario Colque <mario@tuquito.org.ar>  Mon, 21 Jun 2010 01:11:10 -0300
+
 tuquito-gnome-themes (0.1-2) lucid; urgency=low
 
   * Theme elementary  modificado para Tuquito

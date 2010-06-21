@@ -7,7 +7,7 @@ Standards-Version: 3.8.1
 
 Package: tuquito-gnome-themes
 Architecture: all
-Depends: gtk2-engines-aurora
+Depends: gtk2-engines-aurora, gtk2-engines-equinox, gtk2-engines-murrine, gtk2-engines-pixbuf, tuquito-gnome-icons
 Description: Temas de gnome para Tuquito
  Coleccion de Temas de gnome desarrollados por la comunidad para Tuquito
  * Tuquito Team! - 2010
