@@ -1,0 +1,45 @@
+
+style "toolbar-n" = "toolbar"
+{
+## font_name 		= "Lucida Grande 9"
+
+  fg[NORMAL] 		= "#000000"
+  text[NORMAL] 		= "#000000"
+  #bg_pixmap[NORMAL] 	= "Toolbar/toolbarbg.png"
+  fg[PRELIGHT] 		= "#f0f0f0"	
+  fg[ACTIVE] 		= "#ffffff"
+
+  	xthickness = 2
+	ythickness = 0
+
+}
+######################################################
+style "entry-n" = "default"
+{
+	GtkWidget::interior_focus	= 1
+	GtkEntry::inner-border 		= { 4, 1, 1, 1 }
+
+	xthickness 		= 8
+	ythickness 		= 2
+
+    engine "pixmap"
+    {
+
+	# Text-entry
+	image
+	{
+		function		= SHADOW
+		detail			= "entry"
+		shadow			= IN
+		recolorable		= FALSE
+		file			= "Shadows/text-nautilus.png"
+		border			= { 10,10,3,3 }
+		stretch			= TRUE
+	}
+    }
+}
+
+widget_class "*Nautilus*Toolbar*Entry*"		style "entry-n"
+widget_class "*Nautilus*Button*"		style "toolbar-n"
+
+

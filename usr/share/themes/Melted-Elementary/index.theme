@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Melted-Elementary
+Type=X-GNOME-Metatheme
+Comment=Theme modificado para Tuquito 4
+Encoding=UTF-8
+
+Name[en_US]=123
+
+[X-GNOME-Metatheme]
+GtkTheme=Melted-Elementary
+MetacityTheme=Melted-Elementary
+IconTheme=tuquito-elementary-monochrome

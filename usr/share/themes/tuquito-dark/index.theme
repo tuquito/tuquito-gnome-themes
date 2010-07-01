@@ -3,6 +3,6 @@ Name=Tuquito Dark
 Encoding=UTF-8
 GtkTheme=tuquito-dark
 MetacityTheme=tuquito-dark
-IconTheme=tuquito-gnome-brave
+IconTheme=gnome-brave
 CursorTheme=DMZ-White
 BackgroundImage=/usr/share/backgrounds/tuquito/Tuquito4.jpg
