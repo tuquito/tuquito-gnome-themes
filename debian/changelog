@@ -1,3 +1,9 @@
+tuquito-gnome-themes (0.1-6) lucid; urgency=low
+
+  * Eliminado Shiki-Dust
+
+ -- Mario Colque <mario@tuquito.org.ar>  Sun, 04 Jul 2010 18:44:31 -0300
+
 tuquito-gnome-themes (0.1-5) lucid; urgency=low
 
   * Se incorporaron los themes shiki
