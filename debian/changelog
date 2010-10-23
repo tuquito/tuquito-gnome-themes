@@ -1,3 +1,9 @@
+tuquito-gnome-themes (0.1-7) maverick; urgency=low
+
+  * rebranded to Wichi
+
+ -- Mario Colque <mario@tuquito.org.ar>  Sat, 23 Oct 2010 13:22:12 -0300
+
 tuquito-gnome-themes (0.1-6) lucid; urgency=low
 
   * Eliminado Shiki-Dust
